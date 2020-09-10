@@ -8,7 +8,7 @@ authors: "Martin Danelljan*, <strong>Goutam Bhat*</strong>, Fahad Shahbaz Khan, 
 venue: "CVPR"
 arxiv: https://arxiv.org/pdf/1811.07628.pdf
 code: https://github.com/visionml/pytracking#atom
-type: "Oral"
+type: "Oral Presentation"
 ---
 
 We address the problem of estimating accurate bounding box in generic object tracking. We train a target estimation component offline to predict the overlap between the target object and an estimated
