@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "ECO: Efficient Convolution Operators for Tracking"
+date:   2017-07-22
+image: /images/eco.png
+categories: research
+authors: "Martin Danelljan, <strong>Goutam Bhat</strong>, Fahad Shahbaz Khan, Michael Felsberg"
+venue: "CVPR"
+arxiv: https://arxiv.org/pdf/1611.09224.pdf
+code: https://github.com/martin-danelljan/ECO
+---
+
+Test.
+
