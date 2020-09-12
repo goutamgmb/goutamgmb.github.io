@@ -10,5 +10,5 @@ arxiv: https://arxiv.org/pdf/1611.09224.pdf
 code: https://github.com/martin-danelljan/ECO
 ---
 
-We tackle the key causes behind the problems of computational complexity and over-fitting in advanced DCF trackers. We introduce: (i) a factorized convolution operator, which drastically reduces the number of parameters in the tracker model; (ii) a compact generative model of the training sample distribution that significantly reduces memory and time complexity, while providing better diversity of samples; (iii) a conservative model update strategy with improved robustness and reduced complexity. Our approach, using hand-crafted features, operates at 60 Hz on a single CPU, while obtaining competitive tracking performance.
+We tackle the key causes behind the problems of computational complexity and over-fitting in advanced DCF trackers. We introduce: (i) a factorized convolution operator, which drastically reduces the number of model parameters; (ii) a compact generative model of the training sample distribution; (iii) a conservative model update strategy. Our approach can operate at 60 Hz on a single CPU, while obtaining competitive tracking performance.
 

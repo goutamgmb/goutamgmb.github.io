@@ -11,4 +11,4 @@ code: https://github.com/visionml/pytracking#dimp
 type: "Oral Presentation"
 ---
 
-We propose an end-to-end trainable tracking architecture, capable of fully exploiting both target and background appearance information for learning the target model. Our architecture is derived from a discriminative learning loss by designing a dedicated optimization process that is capable of predicting a powerful model in only a few iterations. The proposed tracker sets a new state-of-the-art on 6 tracking benchmarks, while running at over 40 FPS.
+We propose an end-to-end trainable tracking architecture, capable of fully exploiting both target and background appearance information for learning the target model. Our architecture is derived from a discriminative learning loss by designing a dedicated optimization process. The proposed tracker sets a new state-of-the-art on 6 tracking benchmarks, while running at over 40 FPS.
