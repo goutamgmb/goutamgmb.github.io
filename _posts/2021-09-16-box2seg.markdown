@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Generating Masks from Boxes by Mining Spatio-Temporal Consistencies in Videos"
+date:   2021-09-16
+image: /images/box2seg.png
+categories: research
+authors: "Bin Zhao, <strong>Goutam Bhat</strong>, Martin Danelljan, Luc Van Gool, Radu Timofte"
+venue: "ICCV"
+arxiv: https://arxiv.org/pdf/2101.02196.pdf
+---
+
+We introduce a method for generating segmentation masks from per-frame bounding box annotations in videos. To this end, we propose a spatio-temporal aggregation module that effectively mines consistencies in the object and background appearance across multiple frames. We use our resulting accurate masks for weakly supervised training of video object segmentation (VOS) networks. We generate segmentation masks for large scale tracking datasets, using only their bounding box annotations. The additional data provides substantially better generalization performance leading to state-of-the-art results in both the VOS and more challenging tracking domain.
