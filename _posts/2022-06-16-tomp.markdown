@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Transforming Model Prediction for Tracking"
+date:   2022-06-16
+image: /images/tomp.png
+categories: research
+authors: "Christoph Mayer, Martin Danelljan, <strong>Goutam Bhat</strong>, Matthieu Paul, Danda Pani Paudel, Fisher Yu, Luc Van Gool"
+venue: "CVPR"
+arxiv: https://arxiv.org/pdf/2203.11192.pdf
+---
+
+We propose a tracking architecture employing a Transformer-based model prediction module. Transformers capture global relations with little inductive bias, allowing it to learn the prediction of more powerful target models. We further extend the model predictor to estimate a second set of weights that are applied for accurate bounding box regression. The resulting tracker relies on training and on test frame information in order to predict all weights transductively. 
