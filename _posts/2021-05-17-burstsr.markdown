@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Deep Burst Super-Resolution"
+date:   2021-05-17
+image: /images/burstsr.png
+categories: research
+authors: "<strong>Goutam Bhat</strong>, Martin Danelljan, Luc Van Gool, Radu Timofte"
+venue: "CVPR"
+arxiv: https://arxiv.org/pdf/2101.10997.pdf
+code: https://github.com/goutamgmb/deep-burst-sr
+---
+
+We propose a novel architecture for the burst super-resolution task. Our network takes multiple noisy RAW images as input, and generates a denoised, super-resolved RGB image as output. This is achieved by explicitly aligning deep embeddings of the input frames using pixel-wise optical flow. The information from all frames are then adaptively merged using an attention-based fusion module. In order to enable training and evaluation on real-world data, we additionally introduce the BurstSR dataset, consisting of smartphone bursts and high-resolution DSLR ground-truth.
